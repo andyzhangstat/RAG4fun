@@ -1,7 +1,4 @@
-# RAG4fun
-
-In this repository, I will explore the evaluation models for generative message from LLMs.
+# Large Language Models
 
 
-
-
+The repository records the projects related to large language models.
